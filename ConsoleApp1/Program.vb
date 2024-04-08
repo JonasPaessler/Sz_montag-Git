@@ -3,5 +3,7 @@ Imports System
 Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
+        Console.WriteLine("Hello Ben!")
+        Console.ReadLine()
     End Sub
 End Module
