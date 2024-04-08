@@ -4,6 +4,6 @@ Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
         Console.WriteLine("Hallo Jonas!")
-        console.readline()
+        Console.ReadLine()
     End Sub
 End Module
