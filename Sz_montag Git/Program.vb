@@ -1,6 +1,7 @@
 Imports System
 
 Module Program
+    Public Test As Boolean
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
 
@@ -13,6 +14,10 @@ Module Program
             Console.WriteLine(System.DateTime.Now)
         Next
 
+        If Test = False Then
+            Console.WriteLine(Test)
+
+        End If
 
     End Sub
 End Module

@@ -9,6 +9,14 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.vbproj", "{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FTP", "FTP", "{345FB328-616E-43CC-9DF9-E0290FCAA491}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AF", "AF", "{F3707FF9-3876-43CA-83D8-D41B6E2C53F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{0ADF8102-E84F-4DE3-BA49-DCFA16D5657C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.vbproj", "{984DCFE5-A0F1-48F1-9128-7AF7CEDD5380}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,9 +35,18 @@ Global
 		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984DCFE5-A0F1-48F1-9128-7AF7CEDD5380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984DCFE5-A0F1-48F1-9128-7AF7CEDD5380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984DCFE5-A0F1-48F1-9128-7AF7CEDD5380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984DCFE5-A0F1-48F1-9128-7AF7CEDD5380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04A88752-B3B2-4009-B4B5-ECFCF4AA22E7} = {345FB328-616E-43CC-9DF9-E0290FCAA491}
+		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83} = {F3707FF9-3876-43CA-83D8-D41B6E2C53F1}
+		{984DCFE5-A0F1-48F1-9128-7AF7CEDD5380} = {0ADF8102-E84F-4DE3-BA49-DCFA16D5657C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {133B8CAF-AACF-4D18-B7FA-A1294DDE719A}
