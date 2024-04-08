@@ -6,5 +6,5 @@ Module Program
         Console.WriteLine("Hallo Jonas!")
         Console.ReadLine()
     End Sub
-    'Nur ein doofer Kommentar.
+    'Nur ein doofer Test.
 End Module
