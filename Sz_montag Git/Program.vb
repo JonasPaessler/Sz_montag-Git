@@ -15,7 +15,7 @@ Module Program
         Next
 
         If Test = False Then
-            Console.WriteLine("testen")
+            Console.WriteLine("Test")
 
         End If
 
