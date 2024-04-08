@@ -9,6 +9,8 @@ Module Program
             If i = 5 Then
                 Console.WriteLine("ich bin jetzt bei 5!")
             End If
+
+            Console.WriteLine(System.DateTime.Now)
         Next
 
 
