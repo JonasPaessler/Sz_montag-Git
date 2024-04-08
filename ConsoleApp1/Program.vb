@@ -6,4 +6,5 @@ Module Program
         Console.WriteLine("Hallo Jonas!")
         console.readline()
     End Sub
+    'Nur ein doofer Kommentar.
 End Module
