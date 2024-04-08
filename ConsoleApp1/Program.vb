@@ -3,7 +3,7 @@ Imports System
 Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
-        Console.WriteLine("Hello Ben!")
-        Console.ReadLine()
+        Console.WriteLine("Hallo Jonas!")
+        console.readline()
     End Sub
 End Module
