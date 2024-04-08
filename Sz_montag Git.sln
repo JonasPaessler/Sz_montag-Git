@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sz_montag Git", "Sz_montag Git\Sz_montag Git.vbproj", "{0260142E-7701-491A-A70C-892CDA4010F7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.vbproj", "{04A88752-B3B2-4009-B4B5-ECFCF4AA22E7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.vbproj", "{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0260142E-7701-491A-A70C-892CDA4010F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0260142E-7701-491A-A70C-892CDA4010F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0260142E-7701-491A-A70C-892CDA4010F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A88752-B3B2-4009-B4B5-ECFCF4AA22E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A88752-B3B2-4009-B4B5-ECFCF4AA22E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A88752-B3B2-4009-B4B5-ECFCF4AA22E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A88752-B3B2-4009-B4B5-ECFCF4AA22E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB6D00A-1E03-4C58-A47C-EC71774A6F83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
